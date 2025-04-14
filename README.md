@@ -1,4 +1,7 @@
 E-commerce Store App with React & TailwindCSS
+
+
+
 This is a simple e-commerce store application built with React, TailwindCSS, and a mock backend (using db.json). The app displays a list of stores with their details like logos, names, and categories. You can also filter, search, and paginate the list of stores.
 
 Table of Contents
@@ -125,7 +128,7 @@ Troubleshooting
 1. Backend API Not Working
 Make sure you've started the json-server using json-server --watch db.json --port 3001.
 
-If you're getting a 404 error, check that the URL in your API file matches http://localhost:5000 for the API base.
+If you're getting a 404 error, check that the URL in your API file matches http://localhost:3000 for the API base.
 
 2. React App Not Starting
 Run npm install to ensure all dependencies are installed.
