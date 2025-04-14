@@ -4,6 +4,9 @@ E-commerce Store App with React & TailwindCSS
 
 This is a simple e-commerce store application built with React, TailwindCSS, and a mock backend (using db.json). The app displays a list of stores with their details like logos, names, and categories. You can also filter, search, and paginate the list of stores.
 
+
+
+
 Table of Contents
 Prerequisites
 
@@ -22,6 +25,10 @@ Troubleshooting
 License
 
 Prerequisites
+
+
+
+
 Make sure you have the following installed:
 
 Node.js (v14 or above)
@@ -141,7 +148,7 @@ Ensure that you’ve installed the tailwindcss and postcss dependencies correctl
 Double-check the tailwind.config.js and postcss.config.js files are correctly set up.
 
 4. Data Not Showing in Cards
-Check your api.js to ensure that the API request is correctly fetching data from the backend (http://localhost:5000/stores).
+Check your api.js to ensure that the API request is correctly fetching data from the backend (http://localhost:3001/stores).
 
 Ensure that the data format in db.json matches what is expected in your React components.
 
