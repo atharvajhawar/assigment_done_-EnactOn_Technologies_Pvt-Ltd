@@ -73,7 +73,7 @@ bash
 Copy
 Edit
 json-server --watch db.json --port 3001
-This will start the backend at http://localhost:5000 and serve the data from db.json.
+This will start the backend at http://localhost:3001 and serve the data from db.json.
 
 Start the Frontend:
 
